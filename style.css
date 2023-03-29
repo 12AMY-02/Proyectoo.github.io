@@ -1,0 +1,10 @@
+.alinear{
+  width:350px;/* Barra de navegacion */
+  height:250px;
+}
+.container{
+display: flex;
+justify-content: center;
+
+}
+
